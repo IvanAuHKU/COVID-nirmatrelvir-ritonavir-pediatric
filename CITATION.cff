@@ -1,0 +1,32 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Effectiveness of nirmatrelvir/ritonavir in children and
+  adolescents aged 12-17 years following SARS-CoV-2 Omicron
+  infection: A target trial emulation 
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Carlos King Ho
+    family-names: Wong
+    orcid: 'https://orcid.org/0000-0002-6895-6071'
+    email: carlosho@hku.hk
+  - given-names: Ivan Chi Ho
+    family-names: Au
+    email: auchiho@hku.hk
+    affiliation: University of Hong Kong
+    orcid: 'https://orcid.org/0000-0001-5904-8322'
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.11257830
+repository-code: >-
+  https://github.com/IvanAuHKU/COVID-nirmatrelvir-ritonavir-pediatric
+abstract: >
+  Analysis code for the study "Effectiveness of
+  nirmatrelvir/ritonavir in children and adolescents aged
+  12-17 years following SARS-CoV-2 Omicron infection: A
+  target trial emulation"
